@@ -2,7 +2,7 @@
 - 👀 I’m interested in backend and frontend developing
 - 🌱 I’m currently learning Web development, python
 - 💞️ I’m looking to collaborate with python developers
-- 📫 How to reach me ...
+- 📫 How to reach me raghukotthapalli14@gmail.com
 
 <!---
 raghuram2002/raghuram2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
