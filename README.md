@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raghuram2002
 - 👀 I’m interested in backend and frontend developing
-- 🌱 I’m currently learning cyber security , python
+- 🌱 I’m currently learning Web development, python
 - 💞️ I’m looking to collaborate with python developers
 - 📫 How to reach me ...
 
