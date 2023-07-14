@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @raghuram2002
+Hey there👋
+
+
+                                                 👋 Hi, I’m Raghu
 - 👀 I’m interested in backend and frontend developing
 - 🌱 I’m currently learning Web development, python
 - 💞️ I’m looking to collaborate with python developers
