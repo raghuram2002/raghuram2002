@@ -4,7 +4,8 @@
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raghuram2002&label=Profile%20views&color=0e75b6&style=flat" alt="Raghu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raghuram2002&label=Profile%20views&color=0e75b6&style=flat" alt="View Count" /> </p>
+<p> <img src = "https://img.shields.io/github/followers/raghuram2002?label=Followers&style=social" alt="followers" /></p>
 
 
 
